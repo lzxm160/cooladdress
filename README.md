@@ -47,7 +47,7 @@ timeout such as "300ms" or "2h45m". Valid time units are "ns", "us" (or "µs"), 
 
 three-letter:takes about few seconds
 four-letter:takes about 150s
-five-letter:takes about 150s
+five-letter:takes more than 1h
 ```
 
 The last 6 letters of the address is checksum,according to https://github.com/bitcoin/bips/blob/master/bip-0173.mediawiki:
